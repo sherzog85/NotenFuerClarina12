@@ -1,4 +1,4 @@
-# SheetForClarina12
+# NotenFuerClarina12
 
 ## Was ist dieses Projekt?
 In unserem Besitz befindet sich das Lern-Instrument Clarina12 des Hersteller Hohner aus den 60er Jahren:
